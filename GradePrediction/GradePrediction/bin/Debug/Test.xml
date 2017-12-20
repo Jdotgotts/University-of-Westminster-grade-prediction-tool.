@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModulesList>
+  <Module xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Level>4</Level>
+    <ModuleName>dasdas</ModuleName>
+    <ModuleCode>dsadas</ModuleCode>
+    <ModuleCredits>40</ModuleCredits>
+    <ModuleMarks>78</ModuleMarks>
+  </Module>
+</ModulesList>
